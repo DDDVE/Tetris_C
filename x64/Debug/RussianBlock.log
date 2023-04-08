@@ -1,0 +1,10 @@
+﻿  main.c
+C:\vs\projects\RussianBlock\main.c(226,13): warning C4102: “welcomeCases”: 未引用的标签
+C:\vs\projects\RussianBlock\main.c(280,9): warning C4566: 由通用字符名称“\u2308”表示的字符不能在当前代码页(936)中表示出来
+C:\vs\projects\RussianBlock\main.c(282,9): warning C4566: 由通用字符名称“\u2309”表示的字符不能在当前代码页(936)中表示出来
+C:\vs\projects\RussianBlock\main.c(284,9): warning C4566: 由通用字符名称“\u230A”表示的字符不能在当前代码页(936)中表示出来
+C:\vs\projects\RussianBlock\main.c(286,9): warning C4566: 由通用字符名称“\u230B”表示的字符不能在当前代码页(936)中表示出来
+C:\vs\projects\RussianBlock\main.c(648,8): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\vs\projects\RussianBlock\main.c(661,6): warning C4101: “n”: 未引用的局部变量
+C:\vs\projects\RussianBlock\main.c(879,2): warning C4013: “main”未定义；假设外部返回 int
+  RussianBlock.vcxproj -> C:\vs\projects\RussianBlock\x64\Debug\RussianBlock.exe
